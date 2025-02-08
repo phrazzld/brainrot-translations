@@ -16,7 +16,7 @@ EXPANSIONS = {
     'ngl': 'not gonna lie',
     'npc': 'en-pee-see',
     'npcs': 'en-pee-sees',
-    'btw': 'bee-tee dubbs',
+    'btw': 'bee-tee dubbs', # or 'by the way' or 'btw'
     'lmao': 'luhmao',
     'rofl': 'rahfull',
     'roflmao': 'rahfullmao',
@@ -25,8 +25,12 @@ EXPANSIONS = {
     'idk': 'eye-dee-kay',
     'idgaf': 'eye-dee-gaff',
     'rly': 'really',
-    'dl': 'dee-ell',
+    'dl': 'd-l',
     'details': 'deets',
+    'op': 'o-p',
+    'OP': 'o-p',
+    'wtf': 'w-t-f',
+    'bde': 'b-d-e', # or 'big dick energy'
 }
 
 def expand_abbreviations(text, expansions):
@@ -60,18 +64,25 @@ def main():
 
     input_path = args.input_path
 
+    # handle single file input
     if os.path.isfile(input_path):
-        # single file scenario
         base, ext = os.path.splitext(input_path)
         if not ext.lower() == '.txt':
             print(f"warning: file {input_path} doesn't end with .txt (continuing anyway)")
-        out_file = f"{base}-processed{ext}"
+
+        # if it's already something-processed.txt, just overwrite it
+        if base.lower().endswith("-processed"):
+            out_file = input_path
+            print(f"filename ends with '-processed'; overwriting {out_file}")
+        else:
+            out_file = f"{base}-processed{ext}"
+
         expanded_text = process_file(input_path, EXPANSIONS)
         write_output(expanded_text, out_file)
         print(f"wrote processed file: {out_file}")
 
+    # handle directory input
     elif os.path.isdir(input_path):
-        # directory scenario: process all .txt files in the directory
         all_files = os.listdir(input_path)
         txt_files = [f for f in all_files if f.lower().endswith('.txt')]
         if not txt_files:
@@ -81,10 +92,15 @@ def main():
         for filename in txt_files:
             in_file = os.path.join(input_path, filename)
             base, ext = os.path.splitext(filename)
-            out_file = os.path.join(input_path, f"{base}-processed{ext}")
+            if base.lower().endswith("-processed"):
+                out_file = in_file
+                print(f"filename '{filename}' ends with '-processed'; overwriting {out_file}")
+            else:
+                out_file = os.path.join(input_path, f"{base}-processed{ext}")
+
             expanded_text = process_file(in_file, EXPANSIONS)
             write_output(expanded_text, out_file)
-            print(f"processed {filename} -> {base}-processed{ext}")
+            print(f"processed {filename} -> {os.path.basename(out_file)}")
 
     else:
         print(f"error: {input_path} is not a file or directory.")

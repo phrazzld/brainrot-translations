@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "search": "tsx src/cli.ts search",
-    "translate": "tsx src/cli.ts translate"
+    "translate": "tsx src/cli.ts translate",
+    "get-source": "tsx src/cli.ts get-source"
   },
   "dependencies": {
     "chalk": "^5.4.1",

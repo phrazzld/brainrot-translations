@@ -1,11 +1,12 @@
 // src/cli.ts
-import { Command } from "commander";
-import ora from "ora";
 import chalk from "chalk";
-import { gutendexSearch, fetchBookText } from "./gutenberg";
-import { translateFullText } from "./translator";
+import { Command } from "commander";
 import * as fs from "node:fs";
 import * as path from "node:path";
+import ora from "ora";
+import { fetchBookText, gutendexSearch } from "./gutenberg";
+import { identifyBookSections } from "./sections";
+import { translateFullText } from "./translator";
 
 const program = new Command();
 
@@ -50,8 +51,8 @@ program
    .option("--notes <string>", "extra notes to pass to system prompt", "")
    .action(async (opts: { bookId: string; model: string; notes: string }) => {
       const { bookId, model, notes } = opts;
-      // always display which model is being used
       console.log(chalk.magentaBright(`using model: ${model}`));
+
       const fetchSpinner = ora({
          text: chalk.greenBright(`fetching book id=${bookId}...`),
          spinner: "dots",
@@ -75,7 +76,7 @@ program
          translateSpinner.succeed(chalk.cyanBright("translation complete!"));
          console.log(chalk.greenBright(`translation was executed using model: ${model}`));
 
-         // additional dank logging / easter egg message
+         // optional goofy log
          console.log(chalk.magentaBright("fr fr shit is dank, run it back fam"));
 
          const slug = title.replace(/\W+/g, "_").toLowerCase();
@@ -106,6 +107,91 @@ program
          console.log(chalk.yellow(`  ${metaPath}`));
       } catch (err) {
          fetchSpinner.fail(chalk.red("error during translation"));
+         console.error(err);
+         process.exit(1);
+      }
+   });
+
+// NEW COMMAND: get-source
+program
+   .command("get-source")
+   .description("fetch the book text by ID, write out the entire text, and parse out logical sections (chapters, acts, etc.)")
+   .requiredOption("--bookId <number>", "the gutendex book id")
+   .option(
+      "--model <string>",
+      "model to parse sections with (must be openrouter-based gemini-pro-1.5 for huge context)",
+      "google/gemini-pro-1.5"
+   )
+   .action(async (opts: { bookId: string; model: string }) => {
+      const { bookId, model } = opts;
+      const fetchSpinner = ora({
+         text: chalk.greenBright(`fetching book id=${bookId}...`),
+         spinner: "dots",
+      }).start();
+
+      try {
+         const { title, authors, text } = await fetchBookText(Number(bookId));
+         const authorStr = authors.join(", ");
+         fetchSpinner.succeed(`fetched "${title}" by ${authorStr} (length: ${text.length})`);
+
+         const slug = title.replace(/\W+/g, "_").toLowerCase();
+         const dirPath = path.join("translations", slug);
+         if (!fs.existsSync(dirPath)) {
+            fs.mkdirSync(dirPath, { recursive: true });
+         }
+
+         // write the full source text
+         const sourcePath = path.join(dirPath, "source.txt");
+         fs.writeFileSync(sourcePath, text, "utf-8");
+         console.log(chalk.blueBright(`saved full source to ${sourcePath}`));
+
+         // parse sections with gemini-pro
+         const parseSpinner = ora({
+            text: chalk.cyanBright("parsing chapters/sections with gemini-pro-1.5 (structured output)..."),
+            spinner: "line",
+         }).start();
+
+         const openrouterApiKey = process.env.OPENROUTER_API_KEY;
+         if (!openrouterApiKey) {
+            throw new Error("missing OPENROUTER_API_KEY environment variable");
+         }
+
+         // identify chapters/sections
+         const sections = await identifyBookSections(text, openrouterApiKey);
+         parseSpinner.succeed(chalk.cyanBright(`identified ${sections.length} sections`));
+
+         // create a "chapters" subdirectory
+         const chaptersDir = path.join(dirPath, "chapters");
+         if (!fs.existsSync(chaptersDir)) {
+            fs.mkdirSync(chaptersDir, { recursive: true });
+         }
+
+         // write each section
+         sections.forEach((section, i) => {
+            // produce a filename from the section title
+            const sectionSlug = section.title.replace(/\W+/g, "_").toLowerCase() || `section_${i + 1}`;
+            const filename = `section_${i + 1}_${sectionSlug}.txt`;
+            const outPath = path.join(chaptersDir, filename);
+            fs.writeFileSync(outPath, section.content, "utf-8");
+         });
+
+         // metadata
+         const meta = {
+            title,
+            authors,
+            modelUsed: model,
+            date: new Date().toISOString(),
+            sectionCount: sections.length,
+         };
+         const metaPath = path.join(dirPath, "metadata.json");
+         fs.writeFileSync(metaPath, JSON.stringify(meta, null, 2), "utf-8");
+
+         console.log(chalk.greenBright(`done! files saved to:`));
+         console.log(chalk.yellow(`  ${sourcePath}`));
+         console.log(chalk.yellow(`  ${chaptersDir} (individual section files)`));
+         console.log(chalk.yellow(`  ${metaPath}`));
+      } catch (err) {
+         fetchSpinner.fail(chalk.red("error during get-source operation"));
          console.error(err);
          process.exit(1);
       }

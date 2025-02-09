@@ -3,8 +3,11 @@ import OpenAI from "openai";
 import { flexibleChunkText } from "./chunk";
 import { buildSystemPrompt, buildUserPrompt } from "./prompts";
 
+// your original sets, plus gemini-pro in OPENROUTER_MODELS
 const OPENAI_MODELS = ["o3-mini", "o1", "gpt-4o"];
-const OPENROUTER_MODELS = ["deepseek/deepseek-r1"];
+// NEW / UPDATED: added "google/gemini-pro-1.5"
+const OPENROUTER_MODELS = ["deepseek/deepseek-r1", "google/gemini-pro-1.5"];
+
 const MAX_RETRIES = 3;
 
 export interface TranslateOptions {
@@ -14,10 +17,18 @@ export interface TranslateOptions {
    notes?: string;
 }
 
+// NEW: helper to create openrouter client (used in translator + sections code)
+export function createOpenRouterClient(openrouterApiKey: string): OpenAI {
+   return new OpenAI({
+      apiKey: openrouterApiKey,
+      baseURL: "https://openrouter.ai/api/v1",
+   });
+}
+
 function instantiateOpenAiClient(opts: TranslateOptions): OpenAI {
    const { model, openaiApiKey, openrouterApiKey } = opts;
-   // always log which model we're using
    console.log(`using model: ${model}`);
+
    if (OPENAI_MODELS.includes(model)) {
       if (!openaiApiKey) {
          throw new Error("missing OPENAI_API_KEY for openai model");
@@ -28,11 +39,7 @@ function instantiateOpenAiClient(opts: TranslateOptions): OpenAI {
          throw new Error("missing OPENROUTER_API_KEY for openrouter usage");
       }
       console.log("using openrouter configuration with baseURL https://openrouter.ai/api/v1");
-      // note: use baseURL per docs, not basePath
-      return new OpenAI({
-         apiKey: openrouterApiKey,
-         baseURL: "https://openrouter.ai/api/v1",
-      });
+      return createOpenRouterClient(openrouterApiKey);
    }
    throw new Error(`unknown or unsupported model: '${model}'`);
 }
@@ -44,8 +51,11 @@ async function callChatCompletion(
    userPrompt: string,
    temperature: number
 ): Promise<string> {
-   console.log(`calling chat completion for model ${model} with ${["o3-mini", "o1"].includes(model) ? "reasoning_effort" : "temperature: " + temperature
-      }`);
+   console.log(
+      `calling chat completion for model ${model} with ${["o3-mini", "o1"].includes(model) ? "reasoning_effort" : "temperature: " + temperature
+      }`
+   );
+
    const response = await client.chat.completions.create({
       model,
       messages: [
@@ -56,6 +66,7 @@ async function callChatCompletion(
          ? { reasoning_effort: "high" }
          : { temperature }),
    });
+
    const choice = response.choices[0];
    if (!choice || !choice.message || !choice.message.content) {
       throw new Error("no content returned from openai");
@@ -79,7 +90,13 @@ async function translateChunkWithRetries(
       attempts++;
       try {
          console.log(`translating chunk ${chunkIndex}/${chunkCount}, attempt ${attempts}...`);
-         const text = `${userPrompt}\n\n---\n\noriginal text chunk:\n\n${chunk}`;
+         const text = `${userPrompt}
+
+---
+
+original text chunk:
+
+${chunk}`;
          const result = await callChatCompletion(client, model, systemPrompt, text, temperature);
          console.log(`chunk ${chunkIndex} translated successfully (length ${result.length})`);
          return result;
@@ -88,6 +105,7 @@ async function translateChunkWithRetries(
          if (attempts >= MAX_RETRIES) {
             throw err;
          }
+         // small delay before retry
          await new Promise((r) => setTimeout(r, 3000));
       }
    }
@@ -107,6 +125,7 @@ export async function translateFullText(
    console.log(`split text into ${chunks.length} chunk(s)`);
    const systemPrompt = buildSystemPrompt(author, title, notes);
    const userPrompt = buildUserPrompt(author, title);
+
    const translations: string[] = [];
    for (let i = 0; i < chunks.length; i++) {
       const chunk = chunks[i];
@@ -128,4 +147,5 @@ export async function translateFullText(
    return combined;
 }
 
-export { translateChunkWithRetries, callChatCompletion };
+// re-export if needed
+export { callChatCompletion, translateChunkWithRetries };

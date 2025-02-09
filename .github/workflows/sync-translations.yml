@@ -11,20 +11,19 @@ on:
 jobs:
   upload_translations:
     runs-on: ubuntu-latest
-
     steps:
-      - name: check out
+      - name: checkout
         uses: actions/checkout@v3
 
-      - name: set up aws cli
-        uses: aws-actions/setup-aws-cli@v2
+      - name: configure aws credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.DO_SPACES_KEY }}
+          aws-secret-access-key: ${{ secrets.DO_SPACES_SECRET }}
+          aws-region: nyc3
 
-      - name: configure aws for do spaces
-        run: |
-          aws configure set aws_access_key_id ${{ secrets.DO_SPACES_KEY }}
-          aws configure set aws_secret_access_key ${{ secrets.DO_SPACES_SECRET }}
-          aws configure set default.region nyc3
-          aws configure set default.s3.signature_version s3v4
+      - name: set s3 signature version for do spaces
+        run: aws configure set default.s3.signature_version s3v4
 
       - name: sync translations
         run: |

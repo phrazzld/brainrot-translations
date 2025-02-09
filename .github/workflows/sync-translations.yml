@@ -1,4 +1,4 @@
-name: Sync Translations to DO
+name: sync translations to do
 
 on:
   push:
@@ -11,18 +11,15 @@ on:
 jobs:
   upload_translations:
     runs-on: ubuntu-latest
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.DO_SPACES_KEY }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.DO_SPACES_SECRET }}
+      AWS_REGION: nyc3
     steps:
       - name: checkout
         uses: actions/checkout@v3
 
-      - name: configure aws credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          aws-access-key-id: ${{ secrets.DO_SPACES_KEY }}
-          aws-secret-access-key: ${{ secrets.DO_SPACES_SECRET }}
-          aws-region: nyc3
-
-      - name: set s3 signature version for do spaces
+      - name: configure s3 signature version for do spaces
         run: aws configure set default.s3.signature_version s3v4
 
       - name: sync translations

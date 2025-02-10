@@ -5,7 +5,7 @@ import { buildSystemPrompt, buildUserPrompt } from "./prompts";
 
 // your original sets, plus gemini-pro in OPENROUTER_MODELS
 const OPENAI_MODELS = ["o3-mini", "o1", "gpt-4o"];
-// NEW / UPDATED: added "google/gemini-pro-1.5"
+// we keep references to openrouter if you still want to use them:
 const OPENROUTER_MODELS = ["deepseek/deepseek-r1", "google/gemini-pro-1.5"];
 
 const MAX_RETRIES = 3;
@@ -17,7 +17,7 @@ export interface TranslateOptions {
    notes?: string;
 }
 
-// NEW: helper to create openrouter client (used in translator + sections code)
+// we still keep the openrouter helper if you want to do normal meltdown translations using openrouter
 export function createOpenRouterClient(openrouterApiKey: string): OpenAI {
    return new OpenAI({
       apiKey: openrouterApiKey,

@@ -1,6 +1,6 @@
 // src/gutenberg.ts
 import fetch from "node-fetch";
-import * as cheerio from "cheerio";
+import { htmlToText } from "html-to-text";
 
 export interface GutendexBookData {
    id: number;
@@ -18,13 +18,19 @@ export interface GutenbergResult {
    formats: Record<string, string>;
 }
 
+// we prefer actual text if available, else html, etc.
 const PREFERRED_FORMATS = [
+   // highest priority for text
    "text/plain; charset=utf-8",
    "text/plain",
+   // fallback to html if needed
    "text/html; charset=utf-8",
    "text/html"
 ];
 
+/**
+ * search gutendex
+ */
 export async function gutendexSearch(query: string): Promise<GutenbergResult[]> {
    const url = `https://gutendex.com/books?search=${encodeURIComponent(query)}`;
    const res = await fetch(url);
@@ -38,45 +44,30 @@ export async function gutendexSearch(query: string): Promise<GutenbergResult[]> 
       title: item.title,
       authors: item.authors.map((a) => a.name),
       downloadCount: item.download_count,
-      formats: item.formats
+      formats: item.formats,
    }));
 }
 
+/**
+ * pick the best format from the gutendex data
+ */
 function pickBestFormat(formats: Record<string, string>) {
    for (const fmt of PREFERRED_FORMATS) {
       if (formats[fmt]) {
          return { chosenFormat: fmt, downloadUrl: formats[fmt] };
       }
    }
-   throw new Error("no recognized text/html format found in gutendex data");
+   throw new Error("no recognized text/plain or text/html format in gutendex data");
 }
 
-function parseHtmlIntoText(html: string): string {
-   const $ = cheerio.load(html);
-   $("script, style").remove();
-
-   const lines: string[] = [];
-   $("h1, h2, h3, p, br").each((_, el) => {
-      const tag = el.tagName.toLowerCase();
-      if (["h1", "h2", "h3"].includes(tag)) {
-         const heading = $(el).text().trim();
-         if (heading) {
-            lines.push(heading.toUpperCase(), "");
-         }
-      } else if (tag === "p") {
-         const txt = $(el).text().trim().replace(/\s+/g, " ");
-         if (txt) {
-            lines.push(txt, "");
-         }
-      } else if (tag === "br") {
-         lines.push("");
-      }
-   });
-   const combined = lines.join("\n").replace(/\n{3,}/g, "\n\n").trim();
-   return combined;
-}
-
+/**
+ * fetch the raw text from project gutenberg
+ *
+ * if we get 'text/plain', we store exactly that
+ * if we only have 'text/html', we fetch it, then convert the markup to raw text
+ */
 export async function fetchBookText(bookId: number) {
+   console.log(`fetchBookText: requesting metadata from gutendex for bookId=${bookId}`);
    const metadataUrl = `https://gutendex.com/books/${bookId}`;
    const metaRes = await fetch(metadataUrl);
    if (!metaRes.ok) {
@@ -88,6 +79,10 @@ export async function fetchBookText(bookId: number) {
    const authors: string[] = data.authors.map((a) => a.name) || ["unknown"];
 
    const { chosenFormat, downloadUrl } = pickBestFormat(data.formats);
+
+   console.log(
+      `fetchBookText: chosenFormat="${chosenFormat}", downloadUrl="${downloadUrl}"`
+   );
    const textRes = await fetch(downloadUrl);
    if (!textRes.ok) {
       throw new Error(`failed to download text from ${downloadUrl}`);
@@ -95,18 +90,19 @@ export async function fetchBookText(bookId: number) {
    const buf = await textRes.arrayBuffer();
    const utf8 = new TextDecoder("utf-8").decode(buf);
 
-   let finalText = "";
-   if (chosenFormat.includes("text/plain")) {
-      finalText = utf8;
-   } else if (chosenFormat.includes("text/html")) {
-      finalText = parseHtmlIntoText(utf8);
-   } else {
-      throw new Error("no plain text/html found; only epub/mobi. cannot parse.");
+   let finalText = utf8;
+   if (chosenFormat.includes("text/html")) {
+      // convert to raw text from html
+      finalText = htmlToText(utf8, {
+         wordwrap: false,
+         // additional config to tweak if you want, e.g.:
+         // selectors: [{ selector: 'img', format: 'skip' }],
+      });
    }
 
    return {
       title,
       authors,
-      text: finalText
+      text: finalText,
    };
 }

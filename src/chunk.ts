@@ -1,5 +1,5 @@
 // src/chunk.ts
-export const DEFAULT_CHUNK_SIZE = 20000
+export const DEFAULT_CHUNK_SIZE = 18000
 
 export function flexibleChunkText(fullText: string, maxSize = DEFAULT_CHUNK_SIZE): string[] {
    let paragraphs = fullText.split("\n\n")

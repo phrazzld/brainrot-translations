@@ -1,344 +1,384 @@
-the project gutenberg ebook of the declaration of independence of the united states of america  
-yo fam this lit ebook be for anyone, anywhere, no cap, in the usa and like literally everywhere else too fr fr – feel free to peep it, copy it, yeet it around, or just vibe with it under the mad terms of the project gutenberg license – check it online at www.gutenberg.org if you’re not chillin in the usa, cuz laws be wild af and you gotta peep ‘em before yeeting this bad boy  
-
-title: the declaration of independence of the united states of america  
-author: thomas jefferson (big gigachad alert)  
-release date: december 1, 1971 [ebook #1] – updated just now in december 6, 2024 cuz we stay current  
-language: english, no cap  
-
+the project gutenberg ebook of the declaration of independence of the united states of america – ayy yo, welcome to the mega drop of project gutenberg’s straight up epic release of the decla of independence for the usa, deadass lit and sus af  
+   
+yo fr fr, this digi beast is for every npc chillin’ anywhere in the united states and beyond, no cap cost, restrictions? nah fam, so yeet that copy like free loot, share it around like a tiktok banger, and remix it under that project gutenberg license vibe (peep it online at www.gutenberg.org, deadass) and if you ain’t posted in the usa, best check your local law because legal be like “touch grass, fam”  
+   
+title: the declaration of independence of the united states of america – no cap, just pure historic drip  
+   
+author: thomas jefferson – the original yeet king, legit and savage  
+   
+release date: december 1, 1971 [ebook #1] – retro drip alert, big yikes, old school flex  
+   
+most recently updated: december 6, 2024 – cuz even ancient texts get upgrades, on god  
+   
+language: english – our fave lingo, fr fr  
+   
 *** start of the project gutenberg ebook the declaration of independence of the united states of america ***  
    
+=========================================================== deadass, glitchin’ vibes overload ============================================================  
+   
+     note: yo quick heads up nn this file is like a mashup of the first two project gutenberg uploads, both sportin’ filenumber #1, with a bunch of doppelganger files lurkin’ around, updated over mad years – all the OG files chill in the "old" subdirectory (hit up the "more files" listing in the pg catalog) and nothing’s been switched up in these raw etexts, big yikes and all that  
+   
 ===========================================================  
    
-note fam: dis file be a mashup of the first two project gutenberg files (both got that filenumber #1 LOL) and there’s duplicate vibes around here – a few updates through the years fr fr. all the OG files are chillin in the "old" subdirectory, accessible under the "more files" listing in the pg catalog, so don’t worry if you’re caught in 4k with our headers – they’re lit and here to stay, deadass.  
+**welcome to the world of free plain vanilla electronic texts** – welcome to the drip zone of free, basic yet legendary digital texts, deadass lit  
    
-===========================================================  
+**etexts readable by both humans and by computers, since 1971** – these etexts be flexin’ on both homies and machines since way back in 1971, no cap  
    
-**welcome to the world of free plain vanilla electronic texts (mfw free bae)**  
+*these etexts prepared by hundreds of volunteers and donations* – mad props to the hundos of squad members and coin donors who kept this vibe alive, legit savage  
    
-**etexts readable by both humans and computers since 1971 (yeet both)**  
+below you will find the first nine project gutenberg etexts, all smooshed in one file with one header to keep overhead low – cuz the gopher site keeper was all like “yo, cut the header spam” so we yeeted extra text for that low-key hustle, fr fr  
    
-*these etexts were prepped by hundreds of volunteer legends and donation heroes – big loves fam*  
+however, for legal and financial drip, we gotta keep these headers at the front of every file posted in any general user hangouts – project gutenberg be run mostly by dope donations from peeps like you, deadass  
    
-below you’ll find the first nine project gutenberg etexts in one crazy file with one header for the whole shebang cuz we lowkey hate extra overhead and the gopher site crew was like “ditch them headers plz” – but legal bussiness demands these headers ride at the top in all user zones, so here we are, staying extra safe with donations and all that jazz. if you spot our books posted anywhere without these mega headers, slide into the admin dms and request a header reattach, or else it’s like, legal protection ghost mode and we lose those donation vibes  
+if you peep our books posted anywhere without these headers, slide into their dms and ask them to re-attach the header, cuz without it they’re left naked wrt legal protection and our donation grind goes sus, no cap  
    
-***start**the small print!**for public domain etexts**start***  
-why’s this “small print!” lit statement here? bc lawyers, duh – they’re like “if something’s sus with your free etext copy (even if it’s free from someone else), you might try to sue, even if it ain’t our fault” – so this small print is basically us yeeting most liability. also, it spills the tea on how you can share this etext if u wanna get your clout on  
+***start**the small print!**for public domain etexts**start*** – brace yourself, here comes the micro-legal tea, deadass, no chill  
    
-*before!* you peep or vibe with any part of this project gutenberg-tm etext, by reading or using it you’re basically saying “i get it, i’m down, and i accept this small print chaos” – if not, you can yeet a refund request within 30 days (if you even dropped cash on it) by pinging the person who sent it your way – if you copped it on a disc or some physical medium, you gotta send that bad boy back too, aight?  
+why is this "small print!" statement here? yo, because lawyers be flexin’ and need to drop that legal heat, on god  
    
-about project gutenberg-tm etexts:  
-this project gutenberg-tm etext (and basically most of them) is a public domain bae dispensed by professor michael s. hart through the project gutenberg association at illinois benedictine college (aka the project) – meaning no one holds a usa copyright on this masterpiece so everyone (yep, even you!) can copy or slap it online without askin’ for permission or paying any royalty fees. if u wanna copy or spread it under the project’s "project gutenberg" trademark, peep the special rules below – it’s all very extra, but duh  
+they straight up tell us you might throw a lawsuit if your copy glitches, even if it’s free off someone else, even if the fail ain’t on us – so this "small print!" spins out most of our liability, and also drops the deets on how you can ship copies of this etext if you’re feelin’ it, legit  
    
-to craft these etexts, the project pours in hella effort to spot, transcribe, and proofread public domain dope works – but even with that sigma grindset, these etexts (and whatever medium they chill on) might show some “defects” like incomplete, glitchy, or corrupted data, transcribing oopsies, potential intellectual property mix-ups, busted disks, nasty viruses, or computer codes that make your tech rage-quit, lol  
+*before!* you use or read this etext – before you dive in, peep this crucial setup, deadass  
    
-limited warranty; disclaimer of damages:  
-aside from the “right of replacement or refund” deets below, [1] the project (and whoever else dropped this project gutenberg-tm etext in your lap) disclaims ALL liability for any damages, fees, or extra costs (yeah, including legal fees – big yikes) and [2] you’re totally on your own for any negligence, strict liability, or breach of warranty/contract shenanigans – even indirect, consequential, punitive, or incidental damages, even if you dropped a “heads up” on those possible damages  
+by using or reading any part of this project gutenberg-tm etext, u’re basically saying “i read, i agree, i accept” this wild "small print!" statement – if you ain't vibin’, you can snag a refund for any coin you dropped by hollerin’ at the person you got it from within 30 days, and if it’s on a physical medium like a disk, you gotta yeet it back with your request, no cap  
    
-if you spot a defect in this etext within 90 days of receiving it, you can snag a refund – just send an epic note explaining the tea within that time to whoever sent it your way; if you got a physical copy, return it with your note, and they might hook you up with a replacement copy – if it’s digital, they might give you another shot at the download  
+about project gutenberg-tm etexts – listen up, this is the lowdown on the project’s drip  
    
-this etext is served “as-is” – no other warranties (express or implied) are dished out, not even for merchantability or fitness for a specific vibe  
+this project gutenberg-tm etext, like most of its crew, is a "public domain" masterpiece served up by professor michael s. hart via the project gutenberg association at illinois benedictine college (the "project") – which basically means no one’s cashing in on copyright for this work, so the project (and you, deadass) can copy and share it in the usa all day, no permission and no royalty fees required – special rules (detailed below) kick in if you wanna copy and distribute this etext under the "project gutenberg" trademark, so keep it one hunnit  
    
-some states are like “nah, you can’t yeet these disclaimers” so the above deets might not apply to you, and you might have extra legal rights – vibe responsibly, fam  
+to drop these etexts, the project goes full sigma grind to identify, transcribe, and proofread public domain bangers – but fr, sometimes they hit glitches and you might get "defects" like incomplete, off data, transcription fails, copyright slip-ups, busted disks, or even computer viruses and buggy code wrecking your gear – big yikes, deadass  
    
-indemnity:  
-you’re on the hook to indemnify and hold the project, its board, and all its squad members totally harmless from any and all damages, costs, and fees (legal ones too, omg) arising directly or indirectly from any of these moves: [1] sharing this etext, [2] altering/modifying it, or [3] any defect that pops off  
+limited warranty; disclaimer of damages – limited warranty; disclaimer of damages: nah fam, we ain’t responsible for your tech nightmares, legal fees, or any mad mess, on god  
    
-distribution under "project gutenberg-tm":  
-you can share copies of this etext electronically, on a disk, in a book – literally any medium as long as you either yeet this "small print!" and all project gutenberg shoutouts, or:  
+but aside from the "right of replacement or refund" (see below), [1] the project (and any squad you got this etext from, project gutenberg-tm style) disclaims all liability for damages, costs, expenses, including legal fees, and [2] you ain't got any backup for negligence, strict liability, or breach of warranty/contract – this includes indirect, consequential, punitive, or incidental damages, even if you holler "yo, potential glitch" beforehand, deadass  
    
-[1] drop only exact copies – meaning don’t remove or tweak the etext or this small print drama. you can share it in machine-readable binary, compressed, markup, or proprietary form (like if you convert it via word processing or hypertext software) as long as *either*:  
-  [*] the etext, when fired up, is super clear fr and doesn’t have any extra funky characters besides those the OG author intended (tilde (~), asterisk (*), and underline (_) are cool to signal punctuation vibes) or  
-  [*] the etext can be easily re-converted to plain ascii, ebcdic, or something equivalent by the program that vibes with the etext (like most word processors these days), or  
-  [*] you drop, or agree to drop on request, a copy of the etext in its OG plain ascii form (or equivalent) with zero extra cost  
+if u peep any defect in this etext within 90 days of snagging it, drop an explanatory note to the source for a refund of any coin paid – if it came on a disk, u must send it back with your note, and they might hit you with a replacement copy, or if it’s digital, they may offer a second chance to get the digital drip, on god  
    
-[2] honor the etext refund and replacement rules in this small print epilogue  
+this etext is served as-is – no extra warranties, expressed or implied, are dropped about the etext or its medium, including any merchantability or fitness for your next-level project, deadass no cap  
    
-[3] cough up a trademark license fee to the project equal to 20% of the net profits you score (computed with the method you use for your taxes). if you ain’t making profits, then chill – no royalty needed. royalties get sent to "project gutenberg association / illinois benedictine college" within 60 days after you prep (or were legally forced to prep) your annual tax return  
+some states ain't cool with disclaimers of implied warranties or limiting consequential damages, so the above deets might not flex on you if you’re in one of those zones – u might have extra legal rights, big yikes  
    
-what if you *want* to drop money even if you don’t have to?  
-the project is mega thankful for contributions in cash, time, scanner machines, ocr software, public domain etexts, royalty-free copyright licenses, and any other kind of contribution you can imagine – money gets dropped to "project gutenberg association / illinois benedictine college"  
+indemnity – yo, indemnity time: you gotta cover our backs, fam  
    
-this "small print!" by charles b. kramer, attorney internet (72600.2026@compuserve.com); tel: (212-254-5093)  
-*end*the small print! for public domain etexts*ver.04.29.93*end*  
+you agree to indemnify and keep the project, its directors, officers, members, and agents totally unbothered from any liability, costs, or legal fees that pop off – whether from u distributing, altering, or adding to this etext, or any defect shenanigans, so hold that thought and yeet responsibly, deadass  
    
+distribution under "project gutenberg-tm" – now peep how to spread this digital heat  
    
-december, 1971  [etext #1]  
+you can drop copies of this etext electronically, on disk, book, or any medium if u either delete this "small print!" and all project gutenberg refs, or: deadass  
    
-the project gutenberg etext of the declaration of independence  
+[1] only dish out exact copies – no remixin' the etext or this "small print!" statement, keep it 100%; although if u wanna, you can serve it in machine-readable binary, compressed, mark-up, or proprietary form (even if converted by word processing or hypertext software) but only if *either* deadass:  
+   [*] the etext, when displayed, is crystal readable and contains only the characters intended by the original author (tildes, asterisks, and underlines can flex punctuation, plus extra chars for hypertext links are cool), or  
+   [*] the etext can be easily converted by the reader for free into plain ascii, ebcdic, or an equivalent form by the program that shows the etext (like most word processors do), or  
+   [*] you provide, or agree to provide on request at zero extra cost, a copy of the etext in its OG plain ascii form (or in ebcdic/or a similar proprietary vibe), no cap  
    
-all the original project gutenberg etexts from the 1970’s were all in all-caps – like, no lowercase vibes cuz the old computers didn’t even know what lowercase was, deadass  
+[2] follow the etext refund and replacement rules as laid out in this "small print!" statement – respect the drip, no cap  
    
-this is a dope retranscription of one of the first project gutenberg etexts, officially dated december, 1971 – and then re-released officially on december 31, 1993 (big comeback energy, amirite?)  
+[3] drop a trademark license fee to the project equal to 20% of the net profits u earn (calculated with your standard tax method) – if u ain’t earning bank, no fee is due; royalties go to "project gutenberg association / illinois benedictine college" within 60 days of filing your annual (or periodic) tax return, on god  
    
-the united states declaration of independence was the first etext dropped by project gutenberg, early in 1971 – the title was stored in an emailed instruction set which required some tape or diskpack to be hand mounted for retrieval – the diskpack was like a giant cake in a cake carrier, cost a cool $1500, and held 5 mb of data, of which this file is just 1-2% of that cake, lol – two tape backups were kept plus one on paper tape – the 10,000 files we’re hyped to have online by 2001 should only take like 1-2% of a comparably priced drive in 2001 (mind blown)  
+what if u *want* to send money even if u don't have to? – if u’re extra and wanna drop cash even when it ain’t required, bless up  
    
-this file was never copyrighted or sharewared, so it’s totally for all y’all to use and copy however you wanna – feel free to craft your own epic edition using this as your base  
+the project madly appreciates contributions in money, time, scanning rigs, ocr software, public domain etexts, royalty-free copyright licenses, and every wild kind of help u can imagine – cash goes to "project gutenberg association / illinois benedictine college", deadass  
    
-in reasearching this transcription of our first etext, i came across a ton of discrepancies (even in the official usa docs) that prove even “facsimiles” of the declaration of indendence are gonna be all over the place – capitalization, punctuation, and even where names pop up (i left out some names bc they were sus)  
+this "small print!" by charles b. kramer, attorney internet (72600.2026@compuserve.com); tel: (212-254-5093) – legal vibes dropped by charles b. kramer, attorney internet, hit him up if u need, no cap  
    
-this version got rid of a bunch of misspellings from those old parchment facsimiles back in 1971, including stuff like “brittain” which is just nah, fam  
+*end*the small print! for public domain etexts*ver.04.29.93*end* – mic drop on the small print, ya feel me?  
    
+december, 1971  [etext #1] – vintage drop, deadass retro drip  
+   
+the project gutenberg etext of the declaration of independence – here it is, the OG digital manifesto, ready to yeet into history  
+   
+all of the original project gutenberg etexts from the 1970's were produced in all caps, no lower case – cuz back then, computers didn’t even know chill lower case existed, all caps flex only, fr fr  
+   
+this is a retranscription of one of the first project gutenberg etexts, officially dated december, 1971-- and now officially re-released on december 31, 1993-- – a straight up repost from the old school days to the mega re-release era, deadass  
+   
+the united states declaration of independence was the first etext – the legendary OG drop that started it all, no cap, pure historic yeet 
+
+released by project gutenberg, early in 1971, fr fr yo this was totes stored in some emailed drip instructions that demanded a tape or diskpack be hand mounted like, deadass retrieval mode activated lol  
+the diskpack was literally the size of a humongous cake in a cake carrier, cost a sweet $1500, and had like 5 mb of data, of which this file yeeted like 1-2% cuz why not, amirite??  
+two tape backups were chillin’ plus one on paper tape cuz we like vintage vibes, no cap  
+the 10,000 files we’re tryna drop online by the end of 2001 should lowkey take about 1-2% of a similarly priced drive in 2001, omg what a flex  
+
+this file was never copyrighted, sharewared, etc., so basically it’s for all y’all to use, yeet, and copy however you vibe  
+feel free to remix and drop your own edition using this as your base—meme magic, big yikes, all the ways  
+
+in my deep dive research for this transcription of our first etext, i came across so many wack discrepancies [even in that official us doc drop] that i was like, “bruh, even the ‘facsimiles’ of the declaration of independence are sus and gonna come out all diff from the OG, and from each other, no cap.”  
+there’s literally a whole buffet of random capitalization, punctuation, and name placements [and btw, i axed some names cuz they were extra]  
+
+the final doc got rid of a bunch o’ spelling fails from those old parchment “facsimiles” i scooped back in 1971, which i probs can’t even fetch rn, including “brittain” lol
+
 **the project gutenberg etext of the declaration of independence**  
-   
+
 =======================================================================  
-   
-note: this html remix of the original project gutenberg etext #1 was smashed into being on august 4, 2018 to replace that old auto-generated file, making sure this epic pg work could be read on mobile screens – plus, we threw in images of thomas jefferson’s hand-drafted copy of the declaration of independence for extra clout. the OG project gutenberg header and footer are still in the mix, so it’s all legit.  
-   
+
+note: this html remix of the OG project gutenberg etext #1 was whipped up on august 4, 2018 to literally replace that lame auto-generated file, so this major pg vibe could flex on mobile screens  
+images of thomas jefferson’s hand-drafted copy of the declaration of independence got slapped in for extra clout  
+the original project gutenberg header and footer stayed in the mix cuz legacy, gtfo  
+
 =======================================================================  
-   
-   
-   
-   
-the declaration of independence of the united states of america  
-   
-contents  
-   
-declaration of independence  
-   
-december, 1972 [etext #2]  
-   
-december, 1972 [etext #2]  
-   
-december, 1972 [etext #2]  
-   
-   
-the united states bill of rights.  
-   
-i  
-   
-ii  
-   
-iii  
-   
-iv  
-   
-v  
-   
-vi  
-   
-vii  
-   
-viii  
-   
-ix  
-   
-x  
-   
-facsimiles of thomas jefferson's draft  
-   
-   
-   
-   
-   
-   
-   
-the declaration of independence of the united states of america  
-   
-when in the course of human events, like, it becomes mad necessary for one squad of peeps to yeet the political bands that been connecting them to another crew, and to squad up among the powers of the earth with a separate and equal status that the laws of nature and nature’s god totally hook ‘em up with – a major respect for the opinions of the overall human experience demands that they spill the tea on the causes that are driving them to split up, no cap, period.  
-   
-we hold these truths to be self-evident, like, for real, that all humans are created equal – each one of us is blessed by our creator with straight-up unalienable rights, which include life, liberty, and the pursuit of happiness (big mood AF). to secure these rights, governments are set up among men, drawing their just powers straight from the consent of the governed (facts only), and whenever any form of government goes off the rails and becomes destructive to these ends, it is totally the right of the people to flip the script or yeet that government altogether and start fresh with a new one – built on bomb principles and organized in a way that’s most likely to keep us safe and happy, fr. prudence (aka common sense) even says that governments that have been around a minute shouldn’t be tossed aside for petty, transient drama; and history shows that people would rather suffer through some evils as long as they’re bearable than actually smash the system they’re used to. but when a long train of abuses and power trips, always chasing the same shady objective, shows a plan to reduce the peeps under total despotism, then it is not only their right but their duty to yeet that government and squad up with new guards for future security – such has been the chill patience of these colonies; and now the need is real that forces them to flip their old government systems.  
-   
-the history of the present king of great britain is basically a highlight reel of repeated injuries and power grabs, all aiming to set up an absolute tyranny over these states. to prove this, let the facts drop for a candid world, deadass.  
-   
-he has refused his assent to laws that are super wholesome and necessary for the public good – like, major no thanks, bro.  
-   
-he straight up forbidden his governors from passing laws on the fly that are urgent AF unless they’re suspended until his blessing drops; and even when they’re suspended, he ghosted on actually handling them.  
-   
-he wouldn’t pass other laws that could help large squaddies of people unless those peeps agree to ditch their right to representation in the legislature – a right that’s literally priceless and only gives major power vibes against tyrants.  
-   
-he called together legislative crews at wild, uncomfortable, and hella far-out spots away from where the public records are stashed, just to drag them into bending to his extra measures.  
-   
-he dissolved representative houses on repeat, just cuz they stood up with mad manly firmness against his invasions on peeps’ rights.  
-   
-after dissolutions, he ghosted for a long time on organizing new elections so that legislative powers (which are like, too big to be totally annihilated) got tossed back to the people, leaving the state exposed to invasions from outsides and internal convulsions – major sus energy.  
-   
-he even tried to block the growth of these states, straight-up obstructing naturalization laws for foreigners and refusing to drop new laws that would encourage migration here, while cranking up the conditions for new land appropriations – like, chill, bro.  
-   
-he straight-up obstructed justice by refusing to sign off on laws that would set up judiciary powers – mad disrespect, tbh.  
-   
-he made judges ride solely on his will for as long as they held office, including boss-level control over their salaries – total power trip much?  
-   
-he went on a spree erecting a bajillion new offices and sent swarms of officers to hound our people and snack on their resources, like an unending skibidi invasion, no lie.  
-   
-he kept us, even in peace times, rocking standing armies without getting a nod from our legislatures – major tell-me-not-your-business energy.  
-   
-he acted like he was making the military totally independent of and superior to the civil power – yeah, as if.  
-   
-he teamed up with others to subject us to some shady foreign jurisdiction that isn’t even in our constitution or laws, giving his yea to their bogus acts of making up laws – straight-up sketch.  
-   
-for quartering huge squads of armed troops among us, like, turning our spaces into a military mosh pit,  
-   
-for protecting these troops by staging a fake trial to shield them from punishment for any murders they pull on our peeps,  
-   
-for cutting off our trade with literally every corner of the globe – major economic cringe,  
-   
-for slapping taxes on us without our say-so,  
-   
-for robbing us in tons of cases of the right to a trial by jury – such a raw deal,  
-   
-for shipping us off over seas to be tried for bogus offenses – total extra, fam,  
-   
-for axing the free system of english laws in a neighboring province, setting up an arbitrary gov, and blowing up its boundaries so it serves as a trashy example and tool for installing the same absolute rule in these colonies,  
-   
-for snatching away our charters, abolishing our best laws, and straight-up remixing the forms of our governments,  
-   
-for suspending our very own legislatures and declaring themselves the lowkey supreme squad with the power to drop laws for us on every damn occasion.  
-   
-he bailed on governing here by declaring us out of his protection and then going full trigger on us in a war – a straight-up double clutch betrayal.  
-   
-he plundered our seas, wrecked our coasts, burned our towns, and straight-up trashed the lives of our people – major dark energy.  
-   
-he’s currently shipping in massive armies of foreign mercenaries to complete his works of death, devastation, and tyranny – stuff that’s already off the chain with cruelty and perfidy that’s rarely seen even in the nastiest eras, and totally unworthy of being led by a so-called civilized head – major cringe alert.  
-   
-he forced our fellow citizens, grabbed captive on the high seas, to wield arms against their own country, turning them into executioners for their own squad or facing death by their own hands – talk about savage betrayals, amirite?  
-   
-he stirred up domestic insurrections among us and practically goaded the inhabitants of our frontiers into chaos with those merciless indian savages, whose warfare is just an all-out, no filter, destruction spree of everyone regardless of age, gender, or status – major chaos vibes.  
-   
-through every phase of these oppressions, we peeped at redress in the most humble tone ever – our repeated petitions got answered only with repeated injuries, like, “bruh, no listen!” a prince whose character is marked by every tyrannical move is just unfit to rule a free squad, period.  
-   
-and yo, we didn’t even slack on our british brethren – we warned them time and again about their legislature’s sketchy attempts to extend illegal jurisdiction over us, reminded them about the whole emigration and settlement sitch, and appealed to their native justice and big-heart vibes, even conjuring them by our mutual common kinship to disavow these shady power grabs that would inevitably wreck our connections and convos – but nah, they were as deaf as NPCs to the call of justice and family ties. so we’re forced to accept the harsh necessity that signals our separation, and we hold them, like we hold the rest of mankind, as enemies in war and, in peace, as friends (if that’s even possible in these wild times).
 
-yo, we, like, representin' the squad of the usa, deadass in general congress assembled and callin' on the supreme judge of the whole world (no cap, ultimate mod vibes) for our righteous intentions, so in the name and by the authority of the good peeps of these colonies, we solemnly drop this fire declaration and proclaim: these united colonies are, on god, meant to be free and totally independent states; they’ve yeeted all allegiance to that brit crown npc and ghosted any political hookups with great britain like total cancel culture, lol, and as free and independent states, they got full power to crank up war, seal peace, lock down alliances, spark commerce, and pull all other lit moves that independent states rightfully do, fr fr, asdfgh jkl, straight up!
+the declaration of independence of the united states of america
 
-----------------------------------------
+contents
 
-december, 1972 [etext #2] (yo, vintage vibes, lit af, skrrt)
+declaration of independence
 
-****the project gutenberg etext of the u. s. bill of rights**** (mega legal drip, no cap, turn up)
+december, 1972 [etext #2]
 
-the united states bill of rights. (law flex, legit constitution energy, deadass)
+december, 1972 [etext #2]
 
-the ten original amendments to the constitution of the united states passed by congress september 25, 1789 ratified december 15, 1791 (old school drip, mega historic, lol)
+december, 1972 [etext #2]
+
+the united states bill of rights.
 
 i
 
-congress ain't gonna make no law respecting any establishment of religion or banning you from free flexin' your spiritual vibe, nor clip your ability to spit off speech, blast the press, or peaceably squad up and hit the gov with petitioned grievances, on god, no cap, straight up glitch mode.
-
 ii
-
-yo, a well-regulated militia is crucial for our free state security, so the right of the peeps to keep and bear arms is untouchable – keep that flex, deadass, yeet any infringement.
 
 iii
 
-no soldier can crash at your crib in peacetime without your legit consent, and even during war they gotta roll in a law-approved way – period, skrrt!
-
 iv
-
-the people got the right to be mad secure in their persons, cribs, docs, and loot, against bogus searches and snatch-ups; no warrant pops off unless there's proper probable cause, backed by an oath and a full deets rundown on exactly what and where is gettin' searched – on god, full specs, lol.
 
 v
 
-no one gets dragged to answer for a capital or notorious crime unless a grand jury (the ultimate squad of judges) throws down an indictment, except for those in land, naval, or militia action during war or danger; and you can’t be double jeopardized for the same lame offense, forced to snitch on yourself, or stripped of life, liberty, or property without due process – and no one’s private drip gets snatched for public use without fair coin, fr fr.
-
 vi
-
-in any criminal drama, the accused scores a speedy, public trial served by an impartial jury from the state/district where the deed went down – all by law – and gets full deets on the charges, faces the haters (witnesses), can force-compel favoring peeps, and snag legal counsel for defense, deadass, super fast.
 
 vii
 
-in common law suits where the beef is over twenty bucks, the right to a jury trial stays solid, and no fact once dropped by a jury gets rehashed in any us court except under proper common law rules – no replays, asdfg.
-
 viii
-
-excessive bail ain’t allowed, no mega fines or savage, extra cruel punishments thrown down – that’s a big yikes, bro.
 
 ix
 
-the list of rights in the constitution don’t cancel out all the other dope rights the peeps already hold – you still keep your extra sick rights, deadass.
-
 x
 
-any powers not handed to the usa by the constitution or banned from the states are reserved for the states or the people – full freedom mode, on god.
+facsimiles of thomas jefferson’s draft
+
+-----------------------------------------------------------------------
+
+the declaration of independence of the united states of america
+
+when in the course of human events, deadass it becomes necessary for one squad to yeet the political bands that once glued them to another crew, and to step up among the powers of this wild earth into that separate and equal space that nature and nature’s god legit grant, a proper flex of respect for mankind’s opinions demands they spill the tea on why they gotta split, no cap, 4k style
+
+we hold these truths to be self-evident, like fr fr every human being is born equal, blessed by their creator with unalienable rights (life, liberty, and the pursuit of happiness, periodt)  
+and to lock down these rights, governments are set up amongst us, grabbing their power straight from the consent of the people, ya feel me?  
+whenever any kind of government starts glitching and messing up these ends, it’s on the people to yeet or even shutdown that system and bring in a fresh one built on dope principles and organized in a way that’s lit for their safety and happiness—so extra, right?  
+prudence, like the ultimate sigma, will say that old school governments shouldn’t be flipped for minor, transient drama; and all our past experiences prove that people usually stick with the suck if evil is lowkey bearable, rather than yeeting the system they’re used to  
+but when a long-ass train of abuses and power grabs, all chasing the same sus objective, shows a plan to land us under total despotism, then it’s not just an option, it’s the duty to toss that weak government, and set up brand new guards for future secure vibes—facts, yo!  
+such has been the chill suffering of these colonies and now the necessity is lit that forces them to scramble and flip their old government systems—like, forced by cosmic destiny, fr fr  
+the saga of the current king of great britain is nothing but a reel of repeated injuries and power trips, all aimed at setting up an absolute tyranny over these states  
+to prove dis, let the facts get caught in 4k and submitted to a no-filter, candid world
+
+he has straight up refused his assent to laws that are vibes for the public good, like major nope
+
+he has blocked his governors from passing laws that are urgent and needed in a snap unless they chill until his consent drops; and even then when paused, he ghosted on them hard, mad neglect, fr
+
+he has refused to push other laws meant to ease life for big groups of people unless those peeps sacrifice their lit right of representation in the legislature—a right that’s infinite in value and only fearsome to tyrants, no cap
+
+he has gathered legislative squads in spots that are weird, hella uncomfortable and mega far from where their public records are stored, all just to tire them out into following his bogus measures—big yikes
+
+he has repeatedly yeeted representative houses when they stood up with maximal manly firmness against his savage invasions on people’s rights—pure gigachad resistance
+
+after dissolving these houses, he ghosted for long periods on calling for new elections; so that the legislative powers, which can’t just be vaporized, got forced back into the people’s hands for use—meanwhile the state is left chillin’ exposed to invaders from all sides and internal convulsions, like an absolute dumpster fire
+
+he has gone on a mission to slow down the growth of these states, straight up obstructing naturalization laws meant for foreigners; he’s not passing any fresh ones that could boost migration here, and even upping the game on new land appropriation rules—total clout grab, smh
+
+he has blocked the administration of justice by giving a hard no to laws that would set up judiciary powers—nah bruh, justice can’t flex here
+
+he’s made judges ride solely on his whims for the duration of their gigs and for the whole pay packet deal—dependency level: cringe af
+
+he’s built a whole squadron of new offices and sent in swarms of officers to bug our people and literally snatch away their resources—npcs getting rekt
+
+he’s maintained standing armies among us during peace like he’s ordering extra military clout without our legislatures even giving a nod—straight-up arms on arms, big yikes
+
+he has played the game to make the military go all independent and flex way above the civil power—talk about an ego trip
+
+he’s teamed up with other shady players to subject us to a foreign jurisdiction that’s totally off-brand from our constitution and not even recognized by our laws; giving his nod to their laughable acts of fake legislation:
+
+for quartering huge squads of armed troops among us like a never-ending sleepover of soldiers
+
+for shielding those troops with a bogus trial, letting them dodge punishment for any murders they casually commit on our peeps—pure scam, deadass
+
+for slashing off our trade with every corner of the globe—like cut the connect, bruh
+
+for hitting us with taxes outta nowhere without our squad’s consent—tax spam much?!
+
+for robbing us, in mad cases, of the epic benefits of trial by jury—justice left on read
+
+for shipping us over seas to get tried for so-called offences—international yeet of justice, lol
+
+for scrapping the free system of english laws in a neighbor province, setting up an arbitrary government there, and blowing up its boundaries so it can be a poster child for enforcing the same absolute rule in these colonies—mega cringe and totally sus
+
+for snatching our charters, axing our most cherished laws, and fundamentally flipping the forms of our governments—system hacked, af
+
+for freezing our own legislatures and declaring themselves the boss with full power to drop laws on us for every case imaginable—ultimate power trip, on god
+
+he has straight up abdicated real government here by ditching us out of his protection and going to war against his own people—total betrayal, bruh
+
+he has looted our seas, wrecked our coasts, torched our towns, and straight-up demolished the lives of our peeps—absolute wreckage, no chill
+
+he is currently shipping massive armies of foreign mercenaries to complete the world of death, destruction, and tyranny, already started with such epic cruelty & perfidy that it’s like a brutal throwback to the darkest ages, and is totally unworthy of running a so-called civilized nation—big dark energy, deadass
+
+he has forced our fellow citizens captured on the high seas to grab arms against their own country, turning them into executioners of their homies or getting themselves rekt by their own squad’s hands—talk about twisted fate, omg
+
+he’s sparked domestic insurrections among us and is trying to roll in the savage, no-mercy indian tribes on our frontiers, whose battle mode is all about obliterating peeps of every age, gender, and vibe—major savage mode activated
+
+in every freakin’ phase of these oppressions, we’ve been dropping humble petitions for redress—our endless petitions got hit back with nothing but more repeated injuries, like every time is a new cringe moment  
+a prince whose whole character is lit with all these tyrannical acts is totally unfit to rule a free squad—facts, period
+
+nor have we ghosted on our british brethren—been sliding warnings nonstop about their legislature’s attempts to extend bogus jurisdiction over us  
+we’ve clued them in on the drama surrounding our emigration and sick settlement vibes here  
+we’ve appealed to their native justice and mega magnanimity, and even conjured them up with the familial vibes of our common heritage to disavow these straight-up usurpations, which would for real interrupt our connections and sweet convos—all in the name of saving our vibe  
+but they too left us on read, deaf to the calls of justice and deep blood ties  
+so we gotta roll with the necessity that screams our separation, and hold them as we hold the rest of humanity—enemies in war, in peacetime still sorta friends, like a twisted love/hate saga, deadass, on god, no cap, roflmao.
+
+yo yo we are the reps of the us of america, chillin in general congress and all assembled like a total squad, appealin hard to the supreme judge of the world (no cap, deadass) for that 100 vibe on our intentions so in the name and by the authority of the good ppl of these colonies we drop this solemn truth bomb: these united colonies are straight up meant to be free and independent states fr fr; they ghost all allegiances to the british crown and yeet every extra political link with the state of great britain like, dissolved for real, and as free and independent states they got full power to flex at war, lock in peace, squad up alliances, set up commerce, and do all the other dope moves independent states are meant to do, big yikes! and for the support of this epic declaration, ridin on that divine providence boss energy, we mutually pledge our lives, fortunes, and our sacred honor, no cap skibidi!
 
 ----------------------------------------
 
-thomas jefferson's handwritten draft
+december, 1972 [etext #2]
 
-> [the following four images are from engravings taken from jefferson’s draft of the declaration of independence in his own cray handwriting with some ammendations and remix by benjamin franklin and john adams -- click on the enlarge button to peep the full-size, skrrt, yo]
+****the project gutenberg etext of the u. s. bill of rights****
 
-enlarge [aimages/dec1.jpg] (peep that zoom, lol)
+----------------------------------------
 
-dec1th (121k) [aimages/dec1th.jpg] (status: epic, yo)
+the united states bill of rights.  
+the ten original amendments to the constitution of the united states passed by congress september 25, 1789 ratified december 15, 1791
 
-enlarge [aimages/dec2.jpg] (double tap that, mega zoom)
+----------------------------------------
 
-dec2th (124k) [aimages/dec2th.jpg] (lit, skibidi bop, fr)
+i  
+yo congress ain't gonna drop any sus law to set up a religion squad or ban the free flex of spiritual vibes, nor clip the mad freedom of speech or the press drip, or the squad's right to chill and assemble to hit up the gov for redress on any whack grievances, deadass!
 
-enlarge [aimages/dec3.jpg] (get that view, no cap)
+----------------------------------------
 
-dec3th (127k) [aimages/dec3th.jpg] (mega file size, glitch mode)
+ii  
+aight, so a well-regulated militia is key to guardin that free state drip so the right for the squad to keep and bear arms is never gonna be snatched – yeet all infringements, no cap!
 
-enlarge [aimages/dec4.jpg] (enlarge pronto, squad)
+----------------------------------------
 
-dec4th (128k) [aimages/dec4th.jpg] (ultimate, 0wnage, lol)
+iii  
+yo, no soldier is gonna crash in your crib during chill times without your straight up consent, and even in wartime they gotta follow the law vibe, fr fr!
 
-*** end of the project gutenberg ebook the declaration of independence of the united states of america *** (fin, endgame, epic memefest, skrrt bye)
+----------------------------------------
 
-updated editions gonna flex replace the old ones—old editions get a remix name, yo. creating works from print that ain't protected by u.s. copyright means no one holds a u.s. copyright on these gems, so the foundation (plus you, squad!) can copy and drop 'em in the us without permission or $$, fr fr. special rules in the general terms of use keep it 100 when copying and sharing project gutenberg™ electronic works to protect that project gutenberg™ concept and trademark drip. project gutenberg is a registered trademark, so if you're vaulting for cash with an ebook, you gotta play by the trademark license rules and pay royalties for that tag. but if you're not charging a dime for copies, sticking to the trademark license is hella easy, deadass. you can use this ebook for nearly any vibe—derivative works, reports, performances, research, whatever—and project gutenberg ebooks can be modded, printed, and dropped for free—you can literally do anything in the us with ebooks not locked down by copyright law. redistribution vibes follow the trademark license, especially if you're going commercial, so yeet responsibly.
+iv  
+alright fam, the right for ppl to stay secure in their bods, cribs, docs, and swag means no random sus searches or snatching of your goods – any warrant that pops off must roll with legit probable cause, backed by an oath or affirmation, and spell out exactly which spot and which peeps or things are getting peeped or snatched, deadass!
 
-start: full license (let's dive into the legal chaos, yo)
+----------------------------------------
 
-the full project gutenberg license (full legal meltdown, lol)
+v  
+listen up squad, nobody gets held accountable for a major or hella infamous crime unless a grand jury drops that indictment tea, except when you’re deep in land/naval forces or the militia during real war or public danger drama; plus, no one gets hit twice for the same sus move, and yo, you ain’t forced to snitch on yourself or lose your life, freedom, or cash without proper due process, and no one's private swag is gonna get yeeted for public biz without straight-up fair coin compensation, on god!
 
-please read this before you distribute or use this work cuz to keep the project gutenberg™ mission of free electronic vibes lit, by using or sharing this drop (or any work tagged with “project gutenberg”), you’re signing up to all the wild terms of the full project gutenberg™ license, which you can peep in this file or online at www.gutenberg.org/license, on god.
+----------------------------------------
 
-section 1. general terms of use and redistributing project gutenberg™ electronic works (legal deets incoming, strap in)
+vi  
+yo in any criminal drama the accused gets that mad quick and public trial with an unbiased jury from the exact state and district where the tea went down (all laid out by law), and they gotta be fully clued in on the charge deets, face off with the haters throwing shade, have a compulsion to fetch their own witness squad, and score some legit lawyer backup for defense, no cap!
 
-1.a. by reading or using any part of this project gutenberg™ digital banger, you’re basically saying you’ve peeped, digested, and are cool with every term in this license and ip (trademark/copyright) deal. if you ain’t down, you gotta stop usin' and yeet all copies from your stash. and if you dropped cash for access and ain’t vibin' with these terms, hit up the refund deets in paragraph 1.e.8, straight up.
+----------------------------------------
 
-1.b. 'project gutenberg' is a registered trademark, so you can only flex it with a fully signed-up vibe under this agreement. there are some chill moves you can pull with most project gutenberg™ works even if you don't nail every term – check para 1.c. but honestly, stick to these terms and you'll unlock mad options while keepin' free access alive, see para 1.e, fr fr.
+vii  
+in any common law tea, if the drama’s value exceeds twenty bucks, the jury trial right stays on fleek, and no fact that’s been juiced by a jury gets re-examined in any u. s. court outside the common law rulebook, deadass!
 
-1.c. so, the project gutenberg literary archive foundation (aka "the foundation" or pglaf) owns a mega compilation copyright on the project gutenberg™ collection, but most individual works are in the public domain in the us – legit free vibes. if a work isn't under copyright in the us and you're chillin’ here, we ain't tryna stop you from copying, sharing, performing, displaying, or remixin' it, as long as you ghost any project gutenberg tags, yo. obviously, we hope you'll ride with the project gutenberg™ mission by sharin' these works free, keepin' that name in the mix. it's super easy – just keep the work in its original format with the full pg license attached when you drop it for free.
+----------------------------------------
 
-1.d. your local copyright laws also call the shots on what you can do with this work – and these laws are always switchin' up. if you're outside the us, peep your local regs along with these terms before downloadin', copying, or remixin' any project gutenberg™ gem. the foundation ain't makin' any promises about copyright in lands outside the us, on god.
+viii  
+yo, there’s no way anyone’s gonna get hit with insanely high bail, absurd fines, or any savage, twisted punishments – big yikes!
 
-1.e. unless you nuke all pg references:
-1.e.1. you gotta slam this sentence with lit active links to the full project gutenberg™ license front and center every time a project gutenberg™ work is accessed, shown, performed, viewed, copied, or shared:
-> this ebook is for the use of anyone anywhere in the united states and most other parts of the world at no cost and with almost no restrictions whatsoever. you may copy it, give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org [https://www.gutenberg.org]. if you are not located in the united states, you will have to check the laws of the country where you are located before using this ebook.
+----------------------------------------
 
-1.e.2. if a pg™ work is built from texts free of u.s. copyright (with no notice needin' permission), you can copy and share it across the us without any fees. if you're redistributing a work that carries the "project gutenberg" tag, you gotta comply with either the deets in 1.e.1 to 1.e.7 or get permission for both the work and the pg™ trademark as laid out in 1.e.8, deadass.
+ix  
+listen up, just 'cause the constitution drops a list of rights doesn’t mean it can ghost or trash the other rights that our squad still holds tight, on god fr fr!
 
-1.e.3. if a project gutenberg™ work gets posted with the copyright holder's okay, then your use and sharin' must jam with 1.e.1 through 1.e.7 plus any extra terms they drop. those extra deets will show up linked in the pg™ license at the start of the work, yo.
+----------------------------------------
 
-1.e.4. don't unhook, detach, or ghost the full project gutenberg™ license terms from this work or any file that vibes with parts of this drop or any pg™ work, on god.
+x  
+and yo, any powers the constitution doesn’t hand to the u. s. or straight-up disallow for the states are totally reserved for the states or the ppl themselves, locked in tight, no cap!
 
-1.e.5. don't copy, show, perform, or share this electronic masterpiece, or any slice of it, without slammin' that sentence from 1.e.1, complete with active links to the full pg™ license, loud and clear.
+----------------------------------------
 
-1.e.6. you can flip this work into any binary, compressed, or marked-up style – whether nonproprietary or even proprietary, word processing or hypertext – but if you serve it in a format other than the official "plain vanilla ascii" (as posted on the official pg™ site at www.gutenberg.org), you gotta, at no extra cost to the user, provide a way to get a copy in the original "plain vanilla ascii" or the specified form. any alternate format must drop the full pg™ license as set in 1.e.1, on god.
+thomas jefferson's handwritten draft  
+yo check it – these next four pics are straight up engravings snatched from jefferson’s raw draft of the declaration of independence, remix-ed with scribbles from benjamin franklin and john adams, so click that enlarge button if you’re tryna peep the full-size chaotic art, deadass!
 
-1.e.7. don't charge for access, viewin', display, performance, copying, or sharin' any pg™ work unless you follow 1.e.8, straight up.
+enlarge [aimages/dec1.jpg]  
+dec1th (121k) [aimages/dec1th.jpg]
 
-1.e.8. you can drop a reasonable fee for copies, access, or distribution of pg™ works if you follow these:
-   • first, pay a royalty fee of 20% of the gross profits you make from usin' pg™ works (calculated by your usual tax method). this fee goes to the owner of the pg™ trademark, who then donates the royalties to the project gutenberg literary archive foundation. you gotta pay this within 60 days after your tax prep dates and mark the payment clearly, sending it to the address in section 4, "information about donations to the project gutenberg literary archive foundation."
-   • second, offer a full refund if a user notifies you in writin' (or by email) within 30 days of receipt that they don't vibe with the full pg™ license. they must then return or destroy all physical copies and cut off access to any other copies of pg™ works.
-   • third, in line with para 1.f.3, provide a full refund if a defect in the electronic work is reported within 90 days of receipt.
-   • fourth, comply with all other terms of this agreement for free distribution of pg™ works, no cap, fr fr.
+enlarge [aimages/dec2.jpg]  
+dec2th (124k) [aimages/dec2th.jpg]
 
-1.e.9. if u wanna charge a fee or drop a project gutenberg™ electronic work or squad of works on diff terms than the ones in this cray agreement, deadass u gotta snag lit written permission from the project gutenberg literary archive foundation – the real boss of the project gutenberg™ trademark, yo!!! hit up the foundation as deets in section 3 below, fam sksksk, omg fr fr
+enlarge [aimages/dec3.jpg]  
+dec3th (127k) [aimages/dec3th.jpg]
+
+enlarge [aimages/dec4.jpg]  
+dec4th (128k) [aimages/dec4th.jpg]
+
+----------------------------------------
+
+*** end of the project gutenberg ebook the declaration of independence of the united states of america ***  
+yo updated editions gonna replace the old ones – like, those vintage editions are gettin renamed, no cap. creating the works from print editions not protected by u. s. copyright law means nobody owns a copyright on these legendary texts, so the foundation (and you, fr fr) can copy and drop these bad boys in the united states without askin for permission or droppin coin for copyright royalties, deadass! special rules set in the general terms of use part of this license apply to copying and spamming project gutenberg™ electronic works to keep that project gutenberg™ concept and trademark on lock, no cap. project gutenberg is a registered trademark, and you can’t use it if you charge for an ebook unless you follow the trademark license rules (including droppin royalties for using the project gutenberg trademark), legit. if you ain’t charging nada for copies of this ebook, obeyin the trademark license is a breeze – use this ebook for nearly any dope purpose like remixing, reports, performances, and research, on god! project gutenberg ebooks can be modded, printed, and given away – do practically anything in the united states with these ebooks since they aren’t under u. s. copyright law, deadass! redistribution is subject to the trademark license, especially if you’re turnin it into a commercial hustle, big yikes!
+
+start: full license
+
+the full project gutenberg license
+
+yo fam, peep dis before u lob it around lmao  
+to keep dat project gutenberg™ mission flexin free e-work vibes poppin, if u use or sling dis work (or any other swag linked 2 dat “project gutenberg” drip), u deadass agree 2 ride wit all da cray terms of da full project gutenberg™ license that’s chillin wit dis file or posted online at www.gutenberg.org/license, no cap big yikes if u don’t  
+
+section 1. general terms of use and redistributing project gutenberg™ electronic works
+
+1.a. yo squad if u peep or use any bit of dis project gutenberg™ e-work, u straight up sayin u read it, got the 411, and are on god with every zany term of dis license n intellectual property sitch (trademark/copyright) – if u ain't vibin wit all this tea, u gotta yeet dis work from ur stash and bounce, like for real, and if u dropped coins for a copy or access and now ain't down, u can snag a refund from whoever u paid according 2 1.e.8, deadass
+
+1.b. “project gutenberg” is a registered trademark flex only allowed on or linked with an e-work by folks who are down 2 follow dis cray agreement – there’s a few sick moves u can bust with most project gutenberg™ e-works even if u ain't full in on the rulebook (peep paragraph 1.c below) – but if u ride dis agreement u can do a whole lotta dank stuff wit project gutenberg™ e-works and keep free future access lit, see 1.e below, on god
+
+1.c. da project gutenberg literary archive foundation (aka da foundation or pglaf) holds the compile-copyright drip on da collection of project gutenberg™ e-works, and like, nearly every single vibe in the collection is public domain in da usa – if a work ain’t locked by copyright law in da states and u chillin in the usa, we ain’t tryna stop u from copyin, dishing, performing, flexin, or droppin remix versions as long as u yeet all project gutenberg refs outta ur mix – obv we hope u support da mission of free e-access by sharing gutenberg™ works in full rule mode so da name stays iconic, keep dis work in its OG format wit its attached full project gutenberg™ license when u blast it 4 free, deadass
+
+1.d. da copyright laws where u at be bossin what u can do wit dis work – laws in most places be wild AF changin on the daily – if u rockin outside da usa, check ur local tea along wit dis agreement before u download, copy, flex, display, perform, or remix any project gutenberg™ vibes – foundation ain’t droppin deets about copyright status outside da good ol’ usa, on god
+
+1.e. unless u yeeted all mentions of project gutenberg:
+
+  1.e.1. da followin sentence, loaded wit active links 2 or immediate access 2 da full project gutenberg™ license, gotta be blingin whenever ANY copy of a project gutenberg™ work (any work where “project gutenberg” shows up or is linked) is accessed, displayed, performed, viewed, copied or dished out:  
+    > dis ebook is 4 anyone anywhere in da usa and most parts of da globe 4 zero coin and near no restrictions – u can copy it, hand it out, or reuse it under da terms of da project gutenberg license included wit dis ebook or posted online at www.gutenberg.org [https://www.gutenberg.org] – if u ain't chillin in da usa, u gotta peep ur local laws before usin dis ebook, deadass
+
+  1.e.2. if an individual project gutenberg™ e-work is spun from texts not locked by u.s. copyright law (like dat work don’t got a permission notice from da copyright boss), then u can copy and dish it out to anyone in da usa for zero fees or charges – if u’re redistributing or droppin access to a work wit dat “project gutenberg” tag, u gotta either vibe wit rules 1.e.1 thru 1.e.7 or snag permission for usin da work and da project gutenberg™ trademark as laid out in 1.e.8 or 1.e.9, real talk
+
+  1.e.3. if a project gutenberg™ e-work is posted wit the nod of the copyright holder, then ur use and distro must ride wit both 1.e.1 thru 1.e.7 and any extra terms dropped by da copyright boss – those extra deets will be linked 2 da project gutenberg™ license for all works posted wit said permission, posted upfront in dis digital epic, on god
+
+  1.e.4. do not yeet, detach, or unlink da full project gutenberg™ license terms from dis work, or any files carryin a piece of dis work or any other project gutenberg™ association – no cap
+
+  1.e.5. do not copy, display, perform, or dish out dis e-work (or any part of it) without slammin that sentence from 1.e.1 live on deck wit active links or instant access 2 da full project gutenberg™ license terms – keep it 100
+
+  1.e.6. u can convert n distro dis work in any binary, compressed, marked up, nonproprietary, or proprietary drip, includin any word processing or hypertext forms; but if u offer access or drop copies of a project gutenberg™ work in a flavor other than “plain vanilla ascii” (or the approved format on da official project gutenberg™ site at www.gutenberg.org), u must, with zero extra cost or fee 2 the user, provide a copy, an export path, or a way to snag the original “plain vanilla ascii” form on demand – any alternate flavor must always be served with the full project gutenberg™ license as specified 2 make it lit, deadass
+
+  1.e.7. do not charge a fee 4 access, viewin, display, performin, copyin, or distro of any project gutenberg™ works unless u flex by followin either paragraph 1.e.8 or 1.e.9, period
+
+  1.e.8. u can charge a reasonable fee 4 copies, access, or distro of project gutenberg™ e-works provided that:  
+    • u drop a royalty fee of 20% of da gross profits u score from usin project gutenberg™ works, calculated with da same method u use for ur taxes – dis fee goes 2 da owner of da project gutenberg™ trademark, but that big boss is cool donating royalties under dis rule 2 da project gutenberg literary archive foundation; royalty payments gotta be cashed within 60 days after each tax sesh, clearly marked as royalty, and yeeted 2 da project gutenberg literary archive foundation at da addy listed in section 4, “information about donations to the project gutenberg literary archive foundation” – on god  
+    • u give a full refund of any coin paid by a user who slides into ur inbox (or emails) within 30 days of gettin dis work sayin they ain’t down wit da full project gutenberg™ license – and u gotta make dat user return or destroy all physical copies they got and stop usin any extra copies of project gutenberg™ works, no cap  
+    • u provide, in line wit paragraph 1.f.3, a full refund for any money dropped on a work or its replacement if a defect in da e-work is spotted and reported within 90 days of gettin it – glitch meltdown style, real talk  
+    • u vibe with all other terms of dis free distribution agreement 4 project gutenberg™ works – simple as that, mid as fuck if u slack, on god fr fr  
+
+
+1.e.9. if u wanna charge a fee or drop a project gutenberg™ e-work or a whole batch of works on diff terms than the basic blueprint, u gotta slide in a written permission from the project gutenberg literary archive foundation, the boss of the project gutenberg™ trademark – hit up the foundation as outlined in section 3 below, deadass!!!
 
 1.f.
+1.f.1. yo fam project gutenberg volunteers & employees be grinding super hard, legit deep-diving into copyright tea, transcribing, and proofreading work that ain’t protected by u.s. law – all for that gutenberg™ drip, no cap. but even with all that hustle, these digital works and the media they crash on might be packed with “defects” like half-ass data, glitchy errors, corrupt files, transcription slip-ups, copyright drama, busted disks, virus vibes, or code that can straight-up wreck your gear – caught in 4k, fr fr, skibidi!!
 
-1.f.1. project gutenberg volunteers and employees be grinding hard, fr, identifying, researching copyright deets, transcribing, and proofing works not locked by u.s. copyright law in the creation of the project gutenberg™ collection, deadass. but yo even with all that giga hustle, the electronic works and the medium they crash on might be full of “defects” like incomplete, inaccurate, or totally corrupt data, transcription slip-ups, copyright fails or other intellectual property oof’s, busted disks, computer virus mayhem, or codes that wreck or straight up ghost your gear, no cap omg lmao
+1.f.2. yo, limited warranty & damage disclaimer mode activated – aside from the “right of replacement or refund” deets in 1.f.3, the project gutenberg literary archive foundation, trademark boss, and any squad dropping a project gutenberg™ e-work under this deal are ghostin’ all liability for damages, costs, and legal fee drama. u agree that u got zero remedies for negligence, strict liability, warranty breaches, or contract fails except what’s in 1.f.3 – foundation, trademark peeps, and distributors ain’t liable for any actual, direct, indirect, consequential, punitive, or incidental damage even if u warn them, big yikes, no cap.
 
-1.f.2. limited warranty, disclaimer of damages - so aside from the “right of replacement or refund” in para 1.f.3, the project gutenberg literary archive foundation, the trademark boss, and any squad dropping a project gutenberg™ electronic work under this wack agreement are basically ghosting u on any liability for damages, costs, and expenses – even lawyer fees, deadass. u agree that u got no remedies for negligence, strict liability, breach of warranty or contract except the rad bits in para 1.f.3, and u straight up agree that the foundation, trademark owner, and any distributor under this deal won’t be liable for actual, direct, indirect, consequential, punitive, or incidental damages even if u holler about potential damage, omg yeah on god
+1.f.3. aight, limited right of replacement or refund vibes: if u peep a defect in this digital masterpiece within 90 days of copping it, u can get a refund on the coin u spent by sliding a written explanation to whoever hooked u up. if u got it on a physical medium, u gotta return that medium along with your written tea. the provider might decide to drop a replacement copy instead of refund cash – and if u got it electronically, they might grant a second shot to deliver it digitally in lieu of refund. but if that second drop is also trash, u can demand a refund in writing, no extra chances to yeet the issue, deadass.
 
-1.f.3. limited right of replacement or refund - so if u spot a defect in this electronic masterpiece within 90 days of copping it, u can snag a refund on the cash (if any) by sliding a written explanation to the person who hooked u up, no cap. if u got the work on a physical medium, u gotta return that medium along with your written tea. the homie or entity that sent u the glitchy work might choose to drop a replacement copy instead of refunding the bag, and if it was all digital, they might hit u with a second shot to get it electronically instead of refunding. but if the second drop is still sus, u can demand a refund in writing with zero second chances, deadass, yeet!
+1.f.4. besides the replacement/refund hookup in 1.f.3, this work is served to u as-is, with zero extra warranties of any kind, express or implied – not even that merchantable or purpose-fit flex, on god.
 
-1.f.4. except for that sick limited right of replacement or refund in para 1.f.3, this work is being dished out to u as-is, with no extra warranties of any kind—express or implied—including, but not limited to, warranties of merchantability or fitness for any purpose, so touch grass and take it or leave it, lol
+1.f.5. yo, some states are too extra and don’t let u ghost certain implied warranties or cap off some damage types. if any disclaimer or limit here breaks state law, then it’s reinterpreted to max out the allowed disclaimer or limitation under that state’s rules – and the rest of the provisions stay lit, so stay woke, fam.
 
-1.f.5. some states are like nah to disclaiming certain implied warranties or cutting out/limiting certain damage types; if any disclaimer or limitation in this wild agreement breaks state law, then it gets remixed to hit the maximum disclaimer or limitation allowed by that state’s law, fr fr. and btw, if one part is invalid or unenforceable, it doesn’t cancel out the rest of the lit deets, omg, no cap
+1.f.6. indemnity time – u agree to shield and hold harmless the foundation, the trademark boss, any agent or employee of the foundation, anyone droppin’ copies of project gutenberg™ e-works per this deal, and all volunteer legends involved in producing, promoting, and distributing these works, from any and all liability, costs, and legal fee mess-ups that come direct or indirect from any of the following u do or trigger: (a) distributing this or any project gutenberg™ work, (b) remixing, modifying, or addin’ or deletin’ parts of any project gutenberg™ work, and (c) any defect u cause – deadass, no cap!!!
 
-1.f.6. indemnity - u straight up agree to indemnify and hold harmless the foundation, the trademark boss, any agent or employee of the foundation, anyone droppin copies of project gutenberg™ electronic works as per this deal, and any volunteer homies behind the production, hype, and distribution of project gutenberg™ electronic works, from any liability, costs, and expenses (lawyer fees included) that pop off directly or indirectly from any of the following cray moves u do or trigger: (a) distributing this or any project gutenberg™ work, (b) messing with, modding, or adding/deleting stuff in any project gutenberg™ work, and (c) any defect u cause – deadass, no cap, yeet
+section 2. information about the mission of project gutenberg™  
+yo, project gutenberg™ is totally synonymous with free e-work drip in formats that any computer can peep – from your old rusty rig to brand new tech – all thanks to hundreds of volunteer legends and donation coins from all walks of life. volunteer hustle and cash support are the secret sauce to keep the gutenberg™ collection lit for generations to come. back in 2001, the project gutenberg literary archive foundation was spawned to secure a dope, permanent future for gutenberg™ and the legacy. for more deets on the foundation and how your hustle and donations can help, scope out sections 3 and 4 or hit up the info page at www.gutenberg.org, on god.
 
-section 2. information about the mission of project gutenberg™
-project gutenberg™ is like the ultimate vibe for free distribution of electronic works in formats that pop on literally every computer – from super old relics to modern beast machines, no cap. it exists thanks to hundreds of volunteer legends and donations from peeps in all walks of life, real sigma grindset energy. volunteers and cash support are mega crucial to smashing project gutenberg™’s goals and keeping the drop free for generations to come, deadass. in 2001, the project gutenberg literary archive foundation was birthed to secure a forever future for project gutenberg™ and its future fam – for more deets on the foundation and how your hustle and donations help, peep sections 3 and 4 and the foundation info page at www.gutenberg.org, omg
+section 3. information about the project gutenberg literary archive foundation  
+so here’s the lowkey tea: the gutenberg literary archive foundation is a non-profit 501(c)(3) educational corp, set up under mississippi law, and it scored that sweet tax-exempt status from the irs. the foundation’s ein is 64-6221541 – no cap, numbers don’t lie – and any donations are tax deductible to the full extent allowed by u.s. and state laws. the foundation’s biz crib is at 809 north 1500 west, salt lake city, ut 84116, (801) 596-1887. you can snag email links and all the fresh contact deets on their official page at www.gutenberg.org/contact, legit vibes.
 
-section 3. information about the project gutenberg literary archive foundation
-the project gutenberg literary archive foundation is a non-profit 501(c)(3) edu corp, organized under mississippi state laws and scoring tax exempt status from the internal revenue service – legit tax boss moves, fr. the foundation’s ein (federal tax id) is 64-6221541, no cap. contributions to this squad are tax deductible to the max allowed by full u.s. federal laws and your state’s deets, deadass. the foundation’s biz crib is located at 809 north 1500 west, salt lake city, ut 84116, (801) 596-1887; for up-to-date contact links and info, hit up the foundation’s website and official page at www.gutenberg.org/contact, omg so extra
+section 4. information about donations to the project gutenberg literary archive foundation  
+look, gutenberg™ is all about that free digital drip but can’t even survive without massive public support & donation coin to ramp up the count of public domain and licensed works that can be freely dropped in machine-readable form on any tech – even that outdated gear. small donations from $1 to $5,000 are pure gold for keeping that tax-exempt status with the irs, fr fr. the foundation is hella committed to staying compliant with charity laws across all 50 states, but yo, that compliance hustle is a whole circus of paperwork and fees. they don’t solicit donations in spots where they haven’t locked in written compliance – so if u wanna send coin or check on a state’s compliance status, slide over to www.gutenberg.org/donate. while they ain’t chasing contributions in non-compliant states, unsolicited coin drops are always welcome from those places. international donations are mad appreciated too, but they can’t spill tea on tax treats for off-us coin – u.s. laws totally swamp their tiny crew. peep the project gutenberg web pages for the current donation methods and addresses – checks, online payments, credit card vibes, all that jazz. donate at www.gutenberg.org/donate, period.
 
-section 4. information about donations to the project gutenberg literary archive foundation
-project gutenberg™ is straight up dependent on wild public support and donations to keep its mission on fleek – boosting the number of public domain and licensed works that get shared for free in machine-readable form on any gear (even those dated ones), no cap. many small donations (from $1 to $5,000) are mega important for keeping that irs tax exempt status, deadass. the foundation is all about staying legit with charity laws across all 50 states of the united states, but yo, compliance is a messy ride with crazy paperwork, fees, and energy needed to keep up, omg fr fr. we don’t even hit up places where we haven’t got written confirmation of compliance – so if u wanna send donations or check compliance status for a state, slide over to www.gutenberg.org/donate [https://www.gutenberg.org/donate/]. while we don’t solicit from states lacking the proper deets, we know of no ban on accepting unsolicited donations from peeps in those states who come thru with donation offers, deadass. international donations? totally welcome, but we can’t drop tea on tax treatment for cash from outside the united states – u.s. laws are a whole swamp for our tiny squad, omg. for the latest donation methods and addresses, check the project gutenberg web pages – donations roll in via checks, online payments, and credit card drops; to donate, hit up www.gutenberg.org/donate, sksksk
-
-section 5. general information about project gutenberg™ electronic works
-professor michael s. hart was the OG mastermind behind the project gutenberg™ concept – a digital library of electronic works that anyone can share for free, deadass! for like forty years he was busy producing and distributing project gutenberg™ ebooks with nothing more than a chill network of volunteer homies, no cap. project gutenberg™ ebooks are often mashed from multiple printed editions, verified as not being under u.s. copyright (unless a copyright notice is there), so we aren’t locked into any single paper edition blueprint, omg. most peeps start at our website, rocking the main pg search hub at www.gutenberg.org [https://www.gutenberg.org], deadass. this site is packed with info about project gutenberg™, including how to drop donations to the project gutenberg literary archive foundation, how to help whip up our fresh ebooks, and how to subscribe to our email newsletter to catch all the hot new ebook drops, legit, fr fr, omg skibidi blast!
+section 5. general information about project gutenberg™ electronic works  
+yo, prof michael s. hart was the original brainiac behind the gutenberg™ concept – a library of e-works for free sharing with anyone, no cap. for like 40 years, he was dropping and distributing gutenberg™ ebooks with just a loose network of volunteer hustle. these ebooks are usually mashed up from a mix of printed editions, all confirmed as not being locked by u.s. copyright (unless a copyright notice is slapped on), so they might not follow any one printed vibe exactly – big yikes. most peeps kick off their journey at the main pg site with the search plug: www.gutenberg.org – legit. this site spills all the deets on gutenberg™, including how to drop donations to the literary archive foundation, how to help churn out new ebooks, and how to sub to the email newsletter to catch every fresh ebook drop, on god.

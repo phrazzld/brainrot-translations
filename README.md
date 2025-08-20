@@ -1,5 +1,11 @@
 # brainrot-translations
 
+> ⚠️ **DEPRECATED**: This repository has been archived. All translations have been migrated to **https://github.com/phrazzld/brainrot**. See [DEPRECATED.md](./DEPRECATED.md) for details.
+
+---
+
+## Original README
+
 a node.js cli that searches project gutenberg (via gutendex) and translates public-domain texts into meltdown-tier gen-z/alpha slang. powered by openai or openrouter.
 
 ## features
